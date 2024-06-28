@@ -44,7 +44,6 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 |--------------------------------------------------------|--------|----------------------------------------------|
 | Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
 | Build Shopping Cart with OOP                           | 37m    | https://youtu.be/1Ip7_hdSqzY                 |
-| Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 | How To Create A Login System In PHP For Beginners      | 1h 57m | https://youtu.be/gCo6JqGMi30                 |
 
 ### Learn Existing Framework
