@@ -28,8 +28,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 ### Understanding Composer
 | Resource Name                                                         | Resource                                                                 |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Introduction to Composer - How to use Composer For Beginners         | | https://www.youtube.com/watch?v=I6wm15OWyqg                             |
-|                                                                                                                                                  |
+| Introduction to Composer - How to use Composer For Beginners          | https://www.youtube.com/watch?v=I6wm15OWyqg                             |
 
 ### PHP beginner projects
 | Resource Name                                          |Duration| Resource                                     |
